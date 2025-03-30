@@ -36,6 +36,7 @@ app.get('/', (req, res) => {
 app.listen(3000)
 ```
 
+# Prutha
 ## Installation
 
 This is a [Node.js](https://nodejs.org/en/) module available through the
